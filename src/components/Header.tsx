@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button } from "./ui/button";
-import { Menu, X } from "lucide-react";
+import { Menu,  } from "lucide-react";
 import En from "../assets/image/en.png";
 import Logo from "../assets/image/logo.png";
 import { Sheet, SheetContent, SheetHeader, SheetTrigger } from "./ui/sheet"; 
